@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Queenes resolution discovered by some letters read in the House of Commons. From Master Strickland, a member of of [sic] the House. Relating her providing of foure ships with ammunition for her comming over into England, which were stayed by a statesman of ware, upon report of fourteene other ships she had provided in the Brill in Holland. Also an examination, and articles of Sir Edward Rodney, Sir Edward Barkley, and one Master Dugdale a divine, and brought to the House of Commons, with a troope of horse, being taken in Sommersetshire.</title>
+            <author>Strickland, Robert, Sir, ca. 1600-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94053</idno>
+            <idno type="STC">Wing S5974</idno>
+            <idno type="STC">Thomason E130_28</idno>
+            <idno type="STC">Thomason E122_25</idno>
+            <idno type="STC">ESTC R17965</idno>
+            <idno type="EEBO-CITATION">99860316</idno>
+            <idno type="PROQUEST">99860316</idno>
+            <idno type="VID">156318</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94053)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156318)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E130[28], 21:E122[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Queenes resolution discovered by some letters read in the House of Commons. From Master Strickland, a member of of [sic] the House. Relating her providing of foure ships with ammunition for her comming over into England, which were stayed by a statesman of ware, upon report of fourteene other ships she had provided in the Brill in Holland. Also an examination, and articles of Sir Edward Rodney, Sir Edward Barkley, and one Master Dugdale a divine, and brought to the House of Commons, with a troope of horse, being taken in Sommersetshire.</title>
+                  <author>Strickland, Robert, Sir, ca. 1600-1670.</author>
+                  <author>Berkeley, Edward, Sir, b. 1619.</author>
+                  <author>Dugdale, James, 1591 or 2-1661?</author>
+                  <author>Rodney, Edward, Sir, 1590-1657.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rich. Butler,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy E130[28]: "Decemb: 15" and E.122[25]: "Octo: 17th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Henrietta Maria, --  Queen, consort of Charles I, King of England, 1609-1669.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156318:1" rendition="simple:additions"/>
+            <p>THE QUEENES RESOLVTION DISCOVERED BY Some Letters read in the Houſe of COMMONS.</p>
+            <p>From Maſter <hi>Strickland,</hi> a Member of of the HOUSE.</p>
+            <p>Relating her providing of foure ſhips with Am<g ref="char:EOLhyphen"/>munition for her comming over into England, which were ſtayed by a Stateſman of Warre, upon report of fourteene other ſhips ſhe had provided in the Brill in Holland.</p>
+            <p>Alſo an examination, and Articles of Sir <hi>Edward Rodney,</hi> Sir <hi>Edward Barkley,</hi> and one Maſter <hi>Dugdale</hi> a Divine, and brought to the Houſe of Commons, with a Troope of Horſe, being taken in Sommerſetſhire.</p>
+            <p>London, Printed for <hi>Rich. Butler.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156318:2"/>
+            <pb n="3" facs="tcp:156318:2"/>
+            <head>The Queenes reſolution diſcovered, by ſome Letters read in the Houſe of Commons from Maſter <hi>Strickland,</hi> a Member of the Houſe, relating her providing of foure ſhips, with Ammunition, for her comming over into England, which were ſtaid by a Stateſman of Warre, upon report of 14 other ſhips ſhe had provided in the Brill in Holland.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N Wedneſday the 12 of this in<g ref="char:EOLhyphen"/>ſtant <hi>October,</hi> was brought up<g ref="char:EOLhyphen"/>on their knees at the Barre in the Houſe of Commons as De<g ref="char:EOLhyphen"/>linquents, Sir <hi>Edward Rodney,</hi> ſir <hi>Edward Barkley,</hi> Knights, and one Maſter <hi>Dugdale,</hi> a Miniſter, taken in Sommerſetſhire by the Parliaments Forces the laſt weeke, for raiſing of Forces againſt the Parliament, and refuſing to obey the Orders and Sommons of the Parliament, upon their com<g ref="char:EOLhyphen"/>ming to the Barre they were demanded,</p>
+            <p n="1">1 Vpon what command and Warrant they
+<pb n="4" facs="tcp:156318:3"/>raiſed forces to oppoſe the proceedings of the Parliaments Army, and to diſturbe the peace of that County, which hath beene adjudged actu<g ref="char:EOLhyphen"/>all levying of Warre againſt the Parliament, and that adjudged Treaſon.</p>
+            <p n="2">2 Vpon what authority they endevoured to raiſe Money, Plate, and Horſe in that Coun<g ref="char:EOLhyphen"/>ty, for the maintenance of the Warre againſt the Parliament.</p>
+            <p>Vpon which they ſeverally anſwered that they had authority for what they have done from Marqueſſe <hi>Hartford,</hi> who had Authority from His Majeſtie, and by vertue of a Commiſ<g ref="char:EOLhyphen"/>ſion of Array granted to him, which they con<g ref="char:EOLhyphen"/>ceived to be a legall way to raiſe and levy men, for the ſafety of His Majeſties perſon, and pre<g ref="char:EOLhyphen"/>ſerving the peace of the kingdome, upon which it was anſwered, it was contrary to the Votes and Iudgements of both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, and to many Preſidents of former times, and the fundamentall Lawes of the land, which both Houſes had ſet forth in divers Declarations and Orders, that every ſubject might take notice there of levying them that ſhould refuſe the ſame, or obſtinately reject, and the ſame voide of excuſe.</p>
+            <pb n="5" facs="tcp:156318:3"/>
+            <p>After which they were commanded out of the Houſe, and the Commons falling into de<g ref="char:EOLhyphen"/>bate of the many miſdemeanours and outrages committed by the ſaid knights, againſt the Kings good and peaceable ſubjects, are appointed a Committee to draw up a charge of Treaſon againſt them, and ordered they ſhould be com<g ref="char:EOLhyphen"/>mitted to the Tower in the meane time, and Maſter <hi>Dugdale</hi> to be committed to the Gate<g ref="char:EOLhyphen"/>houſe, which was done accordingly.</p>
+            <p>Then was brought before the Commons, Captaine <hi>Kettleby,</hi> one of the Engliſh Pirats, ta<g ref="char:EOLhyphen"/>ken by the Earle of Warwicks Ships, upon his knees at the Barre, and a charge of Treaſon read againſt him, containing theſe Articles.</p>
+            <p n="1">1 That hee the ſaid Captaine <hi>Kettleby</hi> in a traiterous and rebellious manner, breaking the truſt repoſed in him by the Parliament, for the guarding of the Iriſh Seas, to prevent the com<g ref="char:EOLhyphen"/>ming in of forraigne Aid to aſsiſt the Rebels in that kingdome, contrary to his Oath made for his fidelity to King and Parliament, and contra<g ref="char:EOLhyphen"/>ry to the ſaid truſt repoſed in him, neglected his charge, and permitted aide from France to be brought to the Iriſh Coaſt, and endevoured to procure their landing at Waterford in Ireland.</p>
+            <pb n="6" facs="tcp:156318:4"/>
+            <p n="2">2 That he in a traiterous and rebellious manner, contrary to the lawes of this land, and contrary to his late proteſtation, taken for the preſervation of the religion, lawes, and liberties of the Subjects, hath ſtopped the paſſage of cer<g ref="char:EOLhyphen"/>taine ſhips, ſent for his reliefe for Ireland, with Ammunition and divers ſuites of Cloathes, and ſeized the ſame for the uſe of his Majeſtie, to aſ<g ref="char:EOLhyphen"/>ſiſt him in his Warre againſt the Parliament.</p>
+            <p n="3">3 That the ſaid Captaine in a traiterous and rebellious manner, robbed and ſpoyled the Kings good ſubjects and forraigne Merchants comming into this kingdome with Merchan<g ref="char:EOLhyphen"/>dize, profitable for the Weale publike, and ſeized upon their ſhips, goods, and Merchandize, and converted the ſame to his owne uſe and benefit, practiſing piracy on every Cheſt he could take.</p>
+            <p n="4">4 That he being ſommoned by the Earle of Warwicke to make his appearance before his Lordſhip, and anſwer to ſuch Articles as ſhould be laid to his charge, not onely refuſed to appeare, but in a traiterous manner oppoſed the meſſengers, and charged his Ordnance againſt their ſhips, not ſubmitting till they had compelled him by force.</p>
+            <p>After the reading whereof, the Commons fell
+<pb n="7" facs="tcp:156318:4"/>into conſideration, to appoint a time for his tri<g ref="char:EOLhyphen"/>all upon the ſame, in the meane time ordered, he ſhould againe be committed to the Tower, and appointed the ſaid Articles to be read again in the Houſe the next morning the ſecond time.</p>
+            <p>Then was Letters read in the Houſe of Commons from Maſter <hi>Strickland</hi> at the Hague in Holland, intimating that Her Majeſty the Queene hath provided foure ſhips laden with Ammunition to conduct her for England, but the ſaid ſhips were ſtopped by a Stateſman of Warre, by order from the States that her Maje<g ref="char:EOLhyphen"/>ſtie hath at the Brill provided fourteene ſhips, with pretence to guard her perſon likewiſe for England laden with Ammunition, for which, by the Prince of Orenges meanes for certaine the Iewels of the Crowne are pawned. But the States will not let any Ammunition come for England againſt the Parliament to aſsiſt His Majeſtie in His Warre, but make ſtay of the ſaid ſhips, upon which it is conceived the Queene will change her minde from comming for England, and take her journey into France, and indevour the French Kings aſsiſtance to His Majeſtie in this Warre, upon great debate there<g ref="char:EOLhyphen"/>of, had by the Commons, it was ordered Let<g ref="char:EOLhyphen"/>ters
+<pb n="8" facs="tcp:156318:5"/>ſhould be ſent to the Earle of Warwicke, deſiring his Lordſhip to ſend ſome of his ſhips to lie upon the French Coaſts for the preventing of her Majeſties journey thither, and of any for<g ref="char:EOLhyphen"/>ces to come from that kingdome for England.</p>
+            <p>Then there was read in the Houſe of Com<g ref="char:EOLhyphen"/>mons Letters from Yorkeſhire that Captaine <hi>Hotham</hi> hath ſecured the two Caſtles of Cay<g ref="char:EOLhyphen"/>wood and Pomfret, and from Pomfret, march<g ref="char:EOLhyphen"/>ed on Fryday laſt againſt the Earle of Cumber<g ref="char:EOLhyphen"/>land, with intention to give him battell, and for that purpoſe hath procured the high Sheirffe of that County to raiſe part of the Trai<g ref="char:EOLhyphen"/>ned Bands on the Weſt part of the County, who are joyned with him, and hope with Gods aſsiſtance to quiet the peace of that County in ſhort time, which proceedings the Houſe well approved of.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
